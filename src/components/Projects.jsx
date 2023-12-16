@@ -9,14 +9,14 @@ const proj =[
    {
       id: 1,
       src: weatherApp,
-      demourl:'https://github.com/Deepak-3012/Weather-App-SkySnap',
+      demourl:'https://comforting-melba-f4d871.netlify.app/',
       codeurl:'https://github.com/Deepak-3012/Weather-App-SkySnap',
    },
    {
       id: 2,
       src: portfolio,
 
-      demourl:'https://github.com/Deepak-3012/My-Portfolio',
+      demourl:'https://hilarious-nougat-6be342.netlify.app',
       codeurl:'https://github.com/Deepak-3012/My-Portfolio',
 
    
