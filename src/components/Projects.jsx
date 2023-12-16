@@ -15,8 +15,8 @@ const proj =[
    {
       id: 2,
       src: portfolio,
-      demourl:'https://github.com/Deepak-3012/Weather-App-SkySnap',
-      codeurl:'https://github.com/Deepak-3012/Weather-App-SkySnap',
+      demourl:'https://github.com/Deepak-3012/My-portfolio/tree/master',
+      codeurl:'https://github.com/Deepak-3012/My-portfolio/tree/master',
    },
    {
       id: 3,
