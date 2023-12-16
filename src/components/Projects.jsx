@@ -15,13 +15,11 @@ const proj =[
    {
       id: 2,
       src: portfolio,
-<<<<<<< HEAD
+
       demourl:'https://github.com/Deepak-3012/My-Portfolio',
       codeurl:'https://github.com/Deepak-3012/My-Portfolio',
-=======
-      demourl:'https://github.com/Deepak-3012/My-portfolio/tree/master',
-      codeurl:'https://github.com/Deepak-3012/My-portfolio/tree/master',
->>>>>>> 5addbe5c41247aab9a870de7f38b16613648ddf8
+
+   
    },
    {
       id: 3,
