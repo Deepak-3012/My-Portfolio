@@ -1,7 +1,8 @@
 import React from 'react'
 import weatherApp from '../Stuffs/weatherApp.JPG'
 import portfolio from '../Stuffs/portfolio.JPG'
-import comingSoon from '../Stuffs/comingSoon.jpg'
+import SpringB from '../Stuffs/SpringB.jpg'
+import ComingSoon from '../Stuffs/ComingS.png'
 
 
 const Projects =() =>{
@@ -23,21 +24,25 @@ const proj =[
    },
    {
       id: 3,
-      src:comingSoon,
+      src:SpringB,
       demourl:'https://github.com/Deepak-3012',
       codeurl:'https://github.com/Deepak-3012',
    },
    {
       id: 4,
-      src: comingSoon,
+      src: ComingSoon,
+
       demourl:'https://github.com/Deepak-3012',
-      codeurl:'https://github.com/Deepak-3012',
+      codeurl:'https://github.com/Deepak-3012/My-Portfolio',
+
+   
    },
+
 
 ];
 
   return (  
-  <div name="Projects" className=" bg-gradient-to-b from from-black to-gray-800 w-full text-white h-fit md:h-screen">
+  <div name="Projects" className=" bg-gradient-to-b from from-black to-gray-800 w-full text-white lg:h-screen md:h-screen sm:h-fit">
      <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center  w-full h-full ">
      <div className="pb-8">
         <p className="text-4xl font-bold inline border-b-4 border-sky-500">Projects</p>
