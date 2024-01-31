@@ -1,6 +1,5 @@
 import React from 'react'
 import weatherApp from '../Stuffs/weatherApp.JPG'
-import portfolio from '../Stuffs/portfolio.JPG'
 import SpringB from '../Stuffs/SpringB.jpg'
 import ComingSoon from '../Stuffs/ComingS.png'
 
@@ -13,23 +12,15 @@ const proj =[
       demourl:'https://comforting-melba-f4d871.netlify.app/',
       codeurl:'https://github.com/Deepak-3012/Weather-App-SkySnap',
    },
+
    {
       id: 2,
-      src: portfolio,
-
-      demourl:'https://hilarious-nougat-6be342.netlify.app',
-      codeurl:'https://github.com/Deepak-3012/My-Portfolio',
-
-   
-   },
-   {
-      id: 3,
       src:SpringB,
       demourl:'https://github.com/Deepak-3012',
       codeurl:'https://github.com/Deepak-3012',
    },
    {
-      id: 4,
+      id: 3,
       src: ComingSoon,
 
       demourl:'https://github.com/Deepak-3012',
