@@ -18,21 +18,12 @@ const Social = () => {
     style: 'rounded-tr-md',
 
 },
-{
-    id:2,
-    child: (
-        
-              <>
-                GFG<SiGeeksforgeeks size={29}/>
-            </>
-       
-    ),
-    href: 'https://auth.geeksforgeeks.org/user/deepak_3012',
+
     
 
-},
+
 {
-id:3,
+id:2,
 child: (
     
           <>
@@ -44,7 +35,7 @@ href: 'https://wa.me/919344242990',
 },
 
 {
-    id:4,
+    id:3,
     child: (
         
               <>
@@ -57,7 +48,7 @@ href: 'https://wa.me/919344242990',
 
 },
 {
-    id:5,
+    id:4,
     child: (
         
               <>
