@@ -1,7 +1,7 @@
 import React from 'react'
 import {FaGithub, FaLinkedin, FaWhatsapp} from 'react-icons/fa'
 import {HiOutlineMail} from 'react-icons/hi'
-import { SiGeeksforgeeks } from "react-icons/si"
+
 
 const Social = () => {
     const links = [
